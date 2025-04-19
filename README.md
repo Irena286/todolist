@@ -20,7 +20,7 @@ How to Run/Test the Project:
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/todolist.git
+git clone https://github.com/Irena286/todolist.git
 
 
 
